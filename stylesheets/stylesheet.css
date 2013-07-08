@@ -101,7 +101,7 @@ p {
 }
 
 footer p {
-  color: #f2f2f2;
+  color: #ffffff;
 }
 
 a {
@@ -249,7 +249,7 @@ td {
  }
 
 form {
-  background: #f2f2f2;
+  background: #ffffff;
   padding: 20px;
 }
 
@@ -384,8 +384,6 @@ Small Device Styles
   #downloads {
     display: none;
   }
-
-  .inner {
     min-width: 320px;
     max-width: 480px;
   }
